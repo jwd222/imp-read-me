@@ -111,7 +111,7 @@
     *   **Data Link**: The final point count in `Xs_ba` is **160,222**.
 
 **`[END OF PHASE 3]`**
-a
+
 #### **Phase 4: Final Evaluation and Reporting**
 
 *   **Description**: The system's performance is numerically quantified by comparing all generated results against the ground truth.
